@@ -179,7 +179,7 @@
 
 <!-- FOOTER -->
 </div>
-   www.bestdealsintown.com &nbsp;|&nbsp; &copy; 2016
+   www.bestdealsintown.com &nbsp;|&nbsp; &copy; 2025
 </div>
 <!-- END FOOTER -->
 
